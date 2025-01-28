@@ -84,3 +84,6 @@ Streamline the process of running End-to-End (E2E) tests against Netlify preview
 
 ## Inspired By
 [JakePartusch/wait-for-netlify-action](https://github.com/JakePartusch/wait-for-netlify-action)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
